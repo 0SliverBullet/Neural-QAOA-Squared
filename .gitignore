@@ -1,0 +1,14 @@
+### VS Code ###
+.vscode/
+
+### Python ###
+__pycache__
+
+### Files and directories created by training ###
+result/
+runs/
+checkpoints/
+batch_logs/
+
+### package ###
+cuda*
