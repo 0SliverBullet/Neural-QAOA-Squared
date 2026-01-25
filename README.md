@@ -1,6 +1,6 @@
 # Neural-QAOA-Squared
 
-The Neural QAOA$^2$ source code and datasets used in our paper, 'Neural QAOA$^2$: Differentiable Joint Graph Partitioning and Parameter
+The Neural QAOA<sup>2</sup> source code and datasets used in our paper, 'Neural QAOA<sup>2</sup>: Differentiable Joint Graph Partitioning and Parameter
 Initialization for Quantum Combinatorial Optimization,' are available here.
 
 ```bash
