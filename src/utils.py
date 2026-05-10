@@ -33,10 +33,10 @@ def calculate_sum_neg_weights(file_path):
     Read a graph file and calculate the sum of all negative edge weights (SumNeg).
     
     Args:
-        file_path (Path): 指向 .txt 图文件的路径。
+        file_path (Path): Path to the .txt graph file.
 
     Returns:
-        float: 所有负权重之和，如果文件无法处理则返回 None。
+        float: Sum of all negative weights, or None if the file cannot be processed.
     """
     sum_neg = 0.0
     try:

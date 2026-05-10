@@ -8,6 +8,7 @@ __pycache__
 result/
 runs/
 checkpoints/
+data/datasets/
 batch_logs/
 
 ### package ###

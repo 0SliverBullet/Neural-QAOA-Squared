@@ -122,7 +122,7 @@ def train_critic(pretrained_id=None):
             data = data.to(config.DEVICE)
             optimizer.zero_grad()
 
-            # ============== 使用  ratio 直接计算 Loss ==============
+            # ============== Compute loss directly from ratio ==============
             
             ratio = model(data).squeeze()
 
@@ -164,7 +164,7 @@ def train_critic(pretrained_id=None):
             for data in tqdm(val_loader, desc=f"Epoch {epoch+1}/{config.CRITIC_NUM_EPOCHS} [Val]"):
                 data = data.to(config.DEVICE)
 
-                # ============== 使用 ratio 直接计算 Loss ==============
+                # ============== Compute loss directly from ratio ==============
 
                 
                 ratio = model(data).squeeze()
@@ -261,7 +261,7 @@ def test_critic(id=None):
         for data in tqdm(test_loader, desc="Testing Model"):
             data = data.to(config.DEVICE)
 
-            # ============== 使用 ratio 直接计算 Loss ==============
+            # ============== Compute loss directly from ratio ==============
 
             
             ratio = model(data).squeeze()
