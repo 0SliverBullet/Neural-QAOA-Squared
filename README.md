@@ -28,7 +28,7 @@ This repository contains the official implementation of the Neural QAOA<sup>2</s
 - 📖 [Introduction](#introduction)  
 - ✨ [Getting Started](#getting-started)  
 - 🔧 [Usage](#usage)  
-- 📦 [Checkpoints](#evaluation)
+- 📦 [Checkpoints](#checkpoints)
 - 🔖 [Citation](#citation)
 
 
@@ -212,7 +212,7 @@ For convenience, `run_policies.sh` runs multiple partition policies sequentially
 
 We also provide the pre-trained weights of `quantum evaluator` and `joint generator` to reproduce the results in our ICML 2026 paper.  
 
-You can manually download the weights from our [GitHub Releases](), or download them directly to your server using the following command: 
+You can manually download the weights from our [GitHub Releases](https://github.com/0SliverBullet/Neural-QAOA-Squared/releases/tag/v1.0), or download them directly to your server using the following command: 
 
 ```bash 
 # Create directories to store the weights and datasets
