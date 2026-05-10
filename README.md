@@ -1,3 +1,5 @@
+# 
+
 <div align="center">
 <h1 style="display: flex; justify-content: center; align-items: center; gap: 10px; margin: 0;">
   Neural QAOA²: Differentiable Joint Graph Partitioning and Parameter Initialization for Quantum Combinatorial Optimization
@@ -5,19 +7,15 @@
 
 ![main_method](./image/main_method.svg)
 
-<p align="center">
-<div align="center">
-<img src="./image/main_method.svg" alt="overview" style="width: 90%; height: auto;">
-</div>
-
 [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)]() 
 [![alphaXiv](https://img.shields.io/badge/discussion-A42C25?style=for-the-badge&logo=arxiv&logoColor=white&color=blue
 )]()
 [![Github](https://img.shields.io/badge/Neural%20QAOA%20Squared-000000?style=for-the-badge&logo=github&logoColor=000&logoColor=white)](https://github.com/0SliverBullet/Neural-QAOA-Squared)
 
 
-
 <sup>*</sup>Equal contribution <sup>1</sup>Guangdong Provincial Key Laboratory of Brain-Inspired Intelligent Computation, Department of CSE, SUSTech. Correspondence to: [Shengcai Liu](https://senshinel.github.io/)\<liusc3@sustech.edu.cn\>.
+
+</div>
 
 ---
 
