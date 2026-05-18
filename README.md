@@ -7,9 +7,9 @@
 
 ![main_method](./image/main_method.svg)
 
-[![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)]() 
+[![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2605.13072) 
 [![alphaXiv](https://img.shields.io/badge/discussion-A42C25?style=for-the-badge&logo=arxiv&logoColor=white&color=blue
-)]()
+)](https://www.alphaxiv.org/abs/2605.13072)
 [![Github](https://img.shields.io/badge/Neural%20QAOA%20Squared-000000?style=for-the-badge&logo=github&logoColor=000&logoColor=white)](https://github.com/0SliverBullet/Neural-QAOA-Squared)
 
 
@@ -248,10 +248,10 @@ If you find our model, data, or evaluation code useful, please kindly cite our p
 ```bib
 @inproceedings{
   zheng2026neural,
-  title={Neural {QAOA}\${\textasciicircum}2\$: Differentiable Joint Graph Partitioning and Parameter Initialization for Quantum Combinatorial Optimization},
+  title={Neural {QAOA}$^{2}$: Differentiable Joint Graph Partitioning and Parameter Initialization for Quantum Combinatorial Optimization},
   author={Zubin Zheng and Jiahao Wu and Shengcai Liu },
   booktitle={Forty-third International Conference on Machine Learning},
-year={2026},
+  year={2026},
   url={https://openreview.net/forum?id=knVbandOWj}
 }
 ```
